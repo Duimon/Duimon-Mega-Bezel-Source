@@ -1,2 +1,2 @@
 # HSM-Source
-Source files for the HSM Shader Graphics
+Source files for my HSM Shader Graphics repo.
