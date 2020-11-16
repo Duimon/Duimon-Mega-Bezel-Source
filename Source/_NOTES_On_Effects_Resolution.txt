@@ -1,0 +1,1 @@
+To cut down on source file size in the repo I have reduced Illustrators raster effects resolution to 72dpi in most source files. Change this to 300dpi once you have downloaded it.
